@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forester", "Forester\Forester.csproj", "{716C51CE-4052-4DB4-8B5E-99431DA00A72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{716C51CE-4052-4DB4-8B5E-99431DA00A72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{716C51CE-4052-4DB4-8B5E-99431DA00A72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{716C51CE-4052-4DB4-8B5E-99431DA00A72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{716C51CE-4052-4DB4-8B5E-99431DA00A72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {668F292F-C123-44BE-BAAB-088E9C00EB49}
+	EndGlobalSection
+EndGlobal
